@@ -3,7 +3,8 @@ import ar.com.unpaz.model.*;
 public class Inicio {
 
 	public static void main(String[] args) {
-		
+
+		System.out.println("PROBANDO FETCH");	
 		System.out.println("TITULO EN MAYUSCULA");
 		System.out.println("CAMBIO DESDE GIT");		
 		Proceso1 hilo1 = new Proceso1();
