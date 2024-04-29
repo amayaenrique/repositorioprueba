@@ -5,8 +5,7 @@ public class Inicio {
 	public static void main(String[] args) {
 		
 		System.out.println("Titulo");
-		System.out.println("Titulo2");
-		
+				
 		Proceso1 hilo1 = new Proceso1();
 		hilo1.start();
 		
